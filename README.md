@@ -126,13 +126,7 @@ If you encounter any issues or have questions:
 - Include model version and error logs
 - Provide sample input/output for reproduction
 
-## Future Enhancements
-
-- Multi-instrument support (drums, bass, piano)
-- Real-time melody generation
-- Interactive web interface
-- Advanced genre-specific models
-- Transformer-based architecture experiments
+## If you like this project, do star it .
 
 ---
 
