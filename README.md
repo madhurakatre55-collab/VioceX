@@ -126,7 +126,7 @@ If you encounter any issues or have questions:
 - Include model version and error logs
 - Provide sample input/output for reproduction
 
-## If you like this project, do star it .
+ If you like this project, do star it .
 
 ---
 
